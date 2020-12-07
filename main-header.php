@@ -4,7 +4,7 @@
         <div class="logo1">
           <a href="/">
             <h2 class="site-logo">Eveyen Sobremisana</h2>
-            <h6 class="sub_title">Front-End Developer | Graphic Designer </h6>
+            <h6 class="sub_title">Front-End Developer</h6>
           </a>
         </div>
         <div class="home-2 container text-left text-md-right">

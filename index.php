@@ -64,7 +64,7 @@
     <div class="container text-center">
       <div class="row">
         <div class="col-xl-10 offset-xl-1">
-          <h1 class="section-title">I'm <span>Eveyen Sobremisana</span>, an aspiring front-end developer and graphic designer.</h1>
+          <h1 class="section-title">I'm <span>Eveyen Sobremisana</span>, an aspiring front-end developer</h1>
 
 
           <p class="scroll_more">Scroll down to see my latest works </p>
